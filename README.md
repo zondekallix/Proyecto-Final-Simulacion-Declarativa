@@ -12,3 +12,8 @@ Luego se llama a la función **main** para correr el programa:
 
 A partir de aquí se presentarán los datos que se deben llenar para generar los ambientes sobre
 los cuales se realizarán las simulaciones
+
+##### Librerias
+Es necesario tener instalada la librería System.Random
+Con stack se hace de la siguiente forma:
+$ stack install random
