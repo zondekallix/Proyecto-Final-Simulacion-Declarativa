@@ -16,4 +16,5 @@ los cuales se realizarán las simulaciones
 ##### Librerias
 Es necesario tener instalada la librería System.Random
 Con stack se hace de la siguiente forma:
-$ stack install random
+
+**stack install random**
